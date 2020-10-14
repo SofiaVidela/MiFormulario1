@@ -1,0 +1,22 @@
+<resources>
+    <!-- textos de Views-->
+    <string name="app_name">Mi Formulario</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="fechaDeNacimiento">Selecciona tu fecha de nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcionDeContacto">Descripcion de Contacto</string>
+
+    <string name="Button1">Siguiente</string>
+    <string name="Button2">Editar Datos</string>
+    <string name="Button3">Confirmar</string>
+
+
+    <!-- nombres de parametros de Intents -->
+    <string name="pnombre">Nombre Completo</string>
+    <string name="pfechaDeNacimiento">Fecha de Nacimiento</string>
+    <string name="ptelefono">Teléfono</string>
+    <string name="pemail">Email</string>
+    <string name="pdescripcionDeContacto">Descripcion de Contacto</string>
+
+</resources>
